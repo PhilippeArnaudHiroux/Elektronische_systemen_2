@@ -1,0 +1,10 @@
+https://be.grandado.com/j-s-prisma-lens-voor-onderwijs.html?id=72684413&gclid=Cj0KCQiAu62QBhC7ARIsALXijXRWAfPJdffjPVfTxayqFtO3Hhn5LgMqtPOf4Adewl1aZiVA2oiuMUUaAlipEALw_wcB
+
+1. fotodiode/fototransistor
+2. prisma
+3. opamps -> 1 voor elke fotodiode/fototransistor
+4. weerstanden -> voor de versterking van de opamps
+5. multiplexer + demultiplexer
+6. Adruino -> uitlezen
+7. LED
+8. ADC
