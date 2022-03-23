@@ -1,0 +1,226 @@
+Removed Pin From Net: NetName=NetIC1_10 Pin=Q3-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q3-2
+Change Component Footprint: Designator=Q1 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Footprint: Designator=Q2 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Footprint: Designator=Q4 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Footprint: Designator=Q5 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Footprint: Designator=Q6 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Footprint: Designator=Q7 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Footprint: Designator=Q8 Old Footprint=Phototransistors New Footprint=WL-STCW_0805
+Change Component Comment : Designator=Q1 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change Component Comment : Designator=Q2 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change Component Comment : Designator=Q4 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change Component Comment : Designator=Q5 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change Component Comment : Designator=Q6 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change Component Comment : Designator=Q7 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change Component Comment : Designator=Q8 Old Comment=KDT00030TR New Comment=400-1100nm, 1mA, 130deg
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "Phototransistors"; UniqueID = "\AIIOPTCJ" ("\AIIOPTCJ")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "Phototransistors"; UniqueID = "\UQCNRMQC" ("\UQCNRMQC")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "Phototransistors"; UniqueID = "\LDGTXVST" ("\LDGTXVST")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "Phototransistors"; UniqueID = "\KADVNLLI" ("\KADVNLLI")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "Phototransistors"; UniqueID = "\XUOMHAEJ" ("\XUOMHAEJ")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "Phototransistors"; UniqueID = "\AOTPSMAN" ("\AOTPSMAN")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "Phototransistors"; UniqueID = "\LHDZKMGM" ("\LHDZKMGM")
+Change component parameters (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C-0,1µF-smd)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//C0805C104K5RAC7411.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C-0,1µF-smd)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//C0805C104K5RAC7411.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Added Component: Designator=Q(WL-STCW_0805)
+Add component (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Current min."; Value = "0.1mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Current typ."; Value = "1mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector-Emitter Dark Current max."; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/1540801NBA300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1540801NBA300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "March 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Range of Spectral Bandwidth max."; Value = "1100nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Range of Spectral Bandwidth min."; Value = "400nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130deg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength of Peak Sensitivity typ."; Value = "940nm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetIC1_10 Pin=Q-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 C-0,1µF-smd
+Added Member To Class: ClassName=Sheet1 Member=Component C2 C-0,1µF-smd
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Header 21
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Header 21
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 demultiplexer
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q6 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q7 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q8 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component Q 400-1100nm, 1mA, 130deg
+Added Member To Class: ClassName=Sheet1 Member=Component R1 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R2 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R3 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R4 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R5 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R6 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R7 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R8 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R9 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R10 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R11 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R12 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R13 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component R14 R-1K-smd
+Added Member To Class: ClassName=Sheet1 Member=Component RV1 Potentiometer
+Added Member To Class: ClassName=Sheet1 Member=Component RV2 Potentiometer
+Added Member To Class: ClassName=Sheet1 Member=Component  opamp

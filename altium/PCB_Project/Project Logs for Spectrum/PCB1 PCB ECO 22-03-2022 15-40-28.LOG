@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=* NewDesignator=H1
+Change Component Designator: OldDesignator=* NewDesignator=H2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Added Component: Designator=R14(R-1K-smd)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-131KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net_7 Pin=H1-3
+Added Pin To Net: NetName=+5 Pin=H1-20
+Added Pin To Net: NetName=GND Pin=H1-21
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=+5 Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=R14-2
+Change Net Name : Old Net Name=NetIC?_7 New Net Name=NetIC1_7
+Change Net Name : Old Net Name=NetIC?_9 New Net Name=NetIC1_9
+Change Net Name : Old Net Name=NetIC?_10 New Net Name=NetIC1_10
+Change Net Name : Old Net Name=NetIC?_11 New Net Name=NetIC1_11
+Change Net Name : Old Net Name=NetIC?_12 New Net Name=NetIC1_12
+Change Net Name : Old Net Name=NetIC?_13 New Net Name=NetIC1_13
+Change Net Name : Old Net Name=NetIC?_14 New Net Name=NetIC1_14
+Change Net Name : Old Net Name=NetIC?_15 New Net Name=NetIC1_15
+Added Pin To Net: NetName=NetH1_10 Pin=H1-10
+Added Pin To Net: NetName=NetH1_10 Pin=IC1-1
+Added Net: Name=NetH1_10
+Added Pin To Net: NetName=NetH1_11 Pin=H1-11
+Added Pin To Net: NetName=NetH1_11 Pin=IC1-2
+Added Net: Name=NetH1_11
+Added Pin To Net: NetName=NetH1_12 Pin=H1-12
+Added Pin To Net: NetName=NetH1_12 Pin=IC1-3
+Added Net: Name=NetH1_12
+Added Pin To Net: NetName=NetH1_13 Pin=H1-13
+Added Pin To Net: NetName=NetH1_13 Pin=IC1-5
+Added Pin To Net: NetName=NetH1_13 Pin=R14-1
+Added Net: Name=NetH1_13
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Header 21
+Added Member To Class: ClassName=Sheet1 Member=Component R14 R-1K-smd
