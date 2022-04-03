@@ -16,7 +16,7 @@ Lichtspectrum analyse sensor
 
 De XWG1 fungeert als een word generator. Deze gaat binaire getallen van 000 tot 111 uitsturen naar de demultiplexer. Dit is de output van de Esp32.
 
-![](001.png)
+![](img/001.png)
 
 1. *De demultiplexer*
 
@@ -24,7 +24,7 @@ De demultiplexer gaat de binaire woorden van de word generator ontvangen op zijn
 
 1. *De invertors*
 
-![](002.png)In Multisim hebben ze alleen demultiplexers die  die enkel laag uitstuurt zoals in de waarheidstabel zichtbaar is.
+![](img/002.png)In Multisim hebben ze alleen demultiplexers die  die enkel laag uitstuurt zoals in de waarheidstabel zichtbaar is.
 
 Daarom gebruiken we in onze schakeling invertors.
 Maar de demultiplexer die we gaan gebruiken op de PCB heeft wel de juiste waarheidstabel, dus er komen geen invertors op de PCB.
@@ -38,7 +38,7 @@ De fototransistors worden door de demultiplexer om de beurt aangestuurd. In de m
    Op de Multisim schakeling stellen de weerstanden de lichtintensiteit voor. Elke weerstand heeft een andere waarden, dit is om het verschil in lichtintensiteit weer te geven.
 1. *De XSC1*
 
-![](003.png)Dit is de input van de Esp32, hier worden de waardes van de fototransistors terug ingelezen.
+![](img/003.png)Dit is de input van de Esp32, hier worden de waardes van de fototransistors terug ingelezen.
 Op de foto kan je duidelijk zien dat er 8 verschillende waardes worden in gelezen. Als je de waarde van een weerstand aanpast gaat die waarde ook in de grafiek veranderen. Elke waarde staat voor een andere lichtintensiteit.
 
 1. **Het programma laten werken**
