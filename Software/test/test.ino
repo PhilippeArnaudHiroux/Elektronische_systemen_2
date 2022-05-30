@@ -29,9 +29,11 @@ void loop() {
   for(int i = 0; i < 8; i++){
     write_data(count);
     delay(10);
-    buffer_ = analogRead(pin_ADC);
-    Serial.println(buffer_);
-    Serial.println((int) count);
+    data_array[i] = analogRead(pin_ADC);
+    Serial.print(i);
+    Serial.print(": ");
+    Serial.println(data_array[i]);
+    
     //Serial.println("##");
     delay(10);
     count++;
@@ -44,7 +46,4 @@ void write_data(char number){
   digitalWrite(pin_A0, number & 1);
   digitalWrite(pin_A1, (number & 2) >> 1);
   digitalWrite(pin_A2, (number & 4) >> 2);
-  //Serial.println(number & 1);
-  //Serial.println((number & 2) >> 1);
-  //Serial.println((number & 4) >> 2);
 }
